@@ -9,7 +9,10 @@
 3. yolo 수정 코드 (/yolov5)
 
 각 폴더마다 별도의 python virtual env가 존재하므로, 별도의 가상환경에서 각각 실행시켜야 합니다.
+<br/>
+
 ex) 메인 django 코드 실행을 위해선, /mobile-course-blog2에서 source /myvenv/bin/activate를 실행
+
 ex) yolo 수정 코드 실행을 위해선, /mobile-course-blog2/yolov5 에서 source /venv/bin/activate를 실행
 
 made by. 2018100847 이철한
